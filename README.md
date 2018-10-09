@@ -1,4 +1,3 @@
-
 Hyan Siqueira Lopes da Silva Ra:1800727
 01- Testes em DevOps são procedimentos de verificação da aplicação e 
 seus componentes para ver se interagem corretamente entre si
@@ -39,3 +38,10 @@ R: Teste de caixa branca é um teste estrutural que vai averiguar o comportament
 programa e o teste de caixa preta é um teste funcional que vai averiguar as ações do
 programa.
 
+9 - Diagrama da pirâmide de teste é um processo de automação e está envolvido com o custo porque a 
+automatização diminui o trabalho manual e agiliza o processo de implementação.  Na base da pirâmide se encontram 
+os testes unitários que é a menor parte do programa que contém código fonte, na parte do meio está a integração que 
+são aqueles que atravessam a unidade do código fonte fazendo comunicação entre classes por exemplo, e no topo está a interface 
+e aceitação que são os testes de caixa preta que vão executar a jornada completa do usuário interagindo com o software
+
+Ana Beatriz Lima Tonasse: 1800403
