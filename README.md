@@ -1,6 +1,11 @@
+
 01- Testes em DevOps são procedimentos de verificação da aplicação e 
 seus componentes para ver se interagem corretamente entre si
 Hyan Siqueira Lopes da Silva Ra:1800727
+
+2- O que eles validam?
+2 - Procura validar a usabilidade, performance, entre outras características desejáveis em uma aplicação de qualidade
+Nome: Matheus Dutra Karo RA:1801049
 
 3- Qual é a diferença entre a verificação e a validação?
  A Verificação é uma atividade, que envolve a análise de um sistema para certificar se este
@@ -52,4 +57,3 @@ Ana Beatriz Lima Tonasse: 1800403
 Percentualmente, o teste unitário ocupa 60% da pirâmide, a integração ocupa 25% da pirâmide e a interface e aceitação 
 ocupa 15% da pirâmide.
 Gabriel Prado Lolo RA: 1800411
-
