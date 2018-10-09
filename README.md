@@ -1,1 +1,9 @@
 # Devops-Teste
+
+Diagrama da pirâmide de teste é um processo de automação e está envolvido com o custo porque a 
+automatização diminui o trabalho manual e agiliza o processo de implementação.  Na base da pirâmide se encontram 
+os testes unitários que é a menor parte do programa que contém código fonte, na parte do meio está a integração que 
+são aqueles que atravessam a unidade do código fonte fazendo comunicação entre classes por exemplo, e no topo está a interface 
+e aceitação que são os testes de caixa preta que vão executar a jornada completa do usuário interagindo com o software
+
+Ana Beatriz Lima Tonasse: 1800403
